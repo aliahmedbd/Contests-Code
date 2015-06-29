@@ -1,5 +1,4 @@
-# Contests-Code
-Which problem I solve in various contests
+
 #include<iostream>
 using namespace std;
 int main()
